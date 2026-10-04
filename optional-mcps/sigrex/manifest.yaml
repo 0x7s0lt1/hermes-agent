@@ -17,6 +17,7 @@ auth:
 
 suggest:
   keywords:
+    - sigrex
     - trading bot
     - trading automation
     - trading strategy
@@ -36,3 +37,4 @@ post_install: |
   The connection has full access to your Sigrex account, including
   actions that can place live trades. The companion `sigrex` plugin adds
   a workflow skill that makes the agent confirm before any such action.
+  
